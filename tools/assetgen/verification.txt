@@ -1,0 +1,58 @@
+bg_room.png                 1080 x 1920 RGBA   2203993 bytes
+streamer_casual.png          768 x 1024 RGBA    936933 bytes
+streamer_gamer.png           768 x 1024 RGBA    893908 bytes
+streamer_idol.png            768 x 1024 RGBA   1007928 bytes
+streamer_cyber.png           768 x 1024 RGBA    981271 bytes
+streamer_royal.png           768 x 1024 RGBA   1003352 bytes
+gear_webcam.png              256 x 256  RGBA     54078 bytes
+gear_mic.png                 256 x 256  RGBA     52897 bytes
+gear_headset.png             256 x 256  RGBA     65303 bytes
+gear_keyboard.png            256 x 256  RGBA     58502 bytes
+gear_lights.png              256 x 256  RGBA     48614 bytes
+gear_chair.png               256 x 256  RGBA     58544 bytes
+gear_pc.png                  256 x 256  RGBA     70389 bytes
+gear_greenscreen.png         256 x 256  RGBA     41826 bytes
+decor_plant.png              256 x 256  RGBA     57803 bytes
+decor_poster.png             256 x 256  RGBA     97460 bytes
+decor_lamp.png               256 x 256  RGBA     49968 bytes
+decor_shelf.png              256 x 256  RGBA     46176 bytes
+decor_neon.png               256 x 256  RGBA     59427 bytes
+decor_trophy.png             256 x 256  RGBA     57549 bytes
+skill_tap.png                256 x 256  RGBA     55713 bytes
+skill_engage.png             256 x 256  RGBA     58307 bytes
+skill_crit.png               256 x 256  RGBA     53937 bytes
+skill_hype.png               256 x 256  RGBA     50168 bytes
+skill_offline.png            256 x 256  RGBA     64759 bytes
+icon_coin.png                128 x 128  RGBA     21405 bytes
+icon_gem.png                 128 x 128  RGBA     18902 bytes
+icon_heart.png               128 x 128  RGBA     22803 bytes
+icon_viewer.png              128 x 128  RGBA     18295 bytes
+icon_follower.png            128 x 128  RGBA     13631 bytes
+icon_gift.png                128 x 128  RGBA     19728 bytes
+icon_boost.png               128 x 128  RGBA     19431 bytes
+icon_star.png                128 x 128  RGBA     21982 bytes
+icon_lock.png                128 x 128  RGBA     17985 bytes
+icon_check.png               128 x 128  RGBA     22719 bytes
+tab_gear.png                 128 x 128  RGBA     22327 bytes
+tab_skills.png               128 x 128  RGBA     18202 bytes
+tab_room.png                 128 x 128  RGBA     15431 bytes
+tab_outfit.png               128 x 128  RGBA     16472 bytes
+ui_panel.png                  96 x 96   RGBA      1497 bytes
+ui_button.png                 96 x 96   RGBA      2328 bytes
+ui_pill.png                   96 x 96   RGBA      1976 bytes
+ui_glow.png                  256 x 256  RGBA     10391 bytes
+ui_circle.png                128 x 128  RGBA      3003 bytes
+ui_sparkle.png               128 x 128  RGBA      4642 bytes
+ui_live.png                  160 x 64   RGBA      4293 bytes
+sfx_tap.wav                  0.080s 44100 Hz / 16-bit / mono peak  -3.00 dBFS
+sfx_crit.wav                 0.250s 44100 Hz / 16-bit / mono peak  -3.00 dBFS
+sfx_coin.wav                 0.250s 44100 Hz / 16-bit / mono peak  -3.00 dBFS
+sfx_buy.wav                  0.300s 44100 Hz / 16-bit / mono peak  -3.00 dBFS
+sfx_error.wav                0.180s 44100 Hz / 16-bit / mono peak  -3.00 dBFS
+sfx_gift.wav                 0.600s 44100 Hz / 16-bit / mono peak  -3.00 dBFS
+sfx_hype.wav                 0.900s 44100 Hz / 16-bit / mono peak  -3.00 dBFS
+sfx_rankup.wav               1.400s 44100 Hz / 16-bit / mono peak  -3.00 dBFS
+sfx_tab.wav                  0.060s 44100 Hz / 16-bit / mono peak  -3.00 dBFS
+bgm_loop.wav                20.000s 44100 Hz / 16-bit / mono peak -14.00 dBFS
+
+46 PNGs + 10 WAVs; 0 failures.

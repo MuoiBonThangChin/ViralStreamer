@@ -1,0 +1,41 @@
+Generation mode: built-in image_gen, transparent_background=true.
+References: old-room-night-right-window.png and user room screenshot.
+
+Use case: stylized-concept. Create ONE isolated game room furniture/prop sprite as a high quality transparent PNG cutout. Reference image 1 is the EMPTY ROOM for perspective, light and painted texture compatibility. Reference image 2 is furnishing/design inspiration ONLY: ignore all UI, characters, lettering and icons. Polished hand-painted Japanese anime visual novel background asset, fine restrained linework, soft detailed shading, muted cozy colors, gentle cool night illumination from upper right and soft warm ambient fill, subtly worn materials for an old apartment. For furniture: consistent mild three-quarter front view, camera slightly above seat/table height, see front and right side, natural room perspective, no isometric projection, no extreme wide angle. For wall decor near frontal with slight perspective; lamp seen from below. Full object entirely inside frame with generous transparent margin, centered, clearly readable silhouette. Actual alpha transparent background, no room, no floor, no wall, no checkerboard pattern, no text, no watermark, no labels, no people, no UI. No large cast shadow outside object. Asset: 
+
+FILE: sofa.png
+A compact two-seat sofa, muted charcoal gray woven fabric, slightly worn, two seat cushions, low backrest, small wooden feet. Empty sofa: no pillows or teddy.
+
+FILE: study-desk.png
+A modest study desk of worn medium brown wood, slim tabletop, small three-drawer pedestal on its left and two legs on right. Empty tabletop, no chair or electronics.
+
+FILE: monitor.png
+One desktop computer monitor, thin dark bezel, simple V stand, screen facing viewer with a subtle abstract indigo violet cyan gradient. No desk, keyboard or other equipment.
+
+FILE: pc-case.png
+One black mid-tower gaming PC case, front and glass side panel visible, three softly glowing cyan and violet RGB front fans, internal components visible, restrained light.
+
+FILE: gaming-chair.png
+One charcoal gray ergonomic gaming chair with muted lavender accent piping, high back, headrest, lumbar cushion, armrests, gas lift and five caster base. Empty.
+
+FILE: ceiling-light.png
+One round flush-mount ceiling lamp viewed from below, shallow dark metal rim, frosted white diffuser, subtle cyan lavender edge light. Isolated lamp only, no ceiling.
+
+FILE: bookshelf.png
+One small wall-mounted dark wooden bookshelf, two shelves with a modest collection of books and small bookends. Show brackets. No wall.
+
+FILE: wall-art.png
+One framed wall picture, slim worn wood frame surrounding a tasteful anime-style night cityscape in violet blue and warm yellow tones. No text or people. No wall.
+
+FILE: figure-cabinet.png
+One tall narrow glass display cabinet, pale gray metal frame, four glass shelves, three small original fantasy anime collectible figurines on individual bases, subtle internal white lighting. Full cabinet visible.
+
+FILE: teddy-bear.png
+One cute seated warm brown plush teddy bear with a burgundy ribbon bow, soft worn fur, rounded paws facing forward, designed to sit on a sofa. No sofa or pillow.
+
+FILE: sofa-pillow.png
+One plump square pastel muted lavender sofa pillow, soft fabric, slightly creased, standing upright with a tiny natural lean. Designed behind a seated teddy bear. No bear or sofa.
+
+FILE: livestream-desk.png
+One compact livestream computer desk, dark charcoal legs, warm gray tabletop, subtle cyan lavender LED strip along front edge, desk-mounted black articulated microphone boom with microphone on left, small ring light on thin desk clamp at back left, keyboard and mouse neatly on top. Keep central rear tabletop clear for separately composited monitor. No monitor, PC tower, chair or person.
+

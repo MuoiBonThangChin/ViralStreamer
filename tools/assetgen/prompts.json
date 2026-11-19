@@ -1,0 +1,163 @@
+[
+  {
+    "name": "bg_room",
+    "prompt": "Create game background bg_room: opaque portrait 1080x1920 cozy bedroom streaming room at night. Cute kawaii clean vector art, thick dark purple #2B1B4A outlines, soft gradients, pastel neon purple pink cyan yellow mint navy palette. Window with city lights toward side, wood floor lower third, desk low in composition. Critical centre x240-840 y500-1300 calm uncluttered empty wall for character overlay. Top320 and bottom760 simple since UI covers. No people, no text, no logos."
+  },
+  {
+    "name": "streamer_royal",
+    "prompt": "Original character Nova for mobile game. SAME design specification: chibi girl huge head short lavender bob hair with pink streak, purple eyes, over ear purple headphones with small microphone, smiling facing camera waist up one hand waving on viewer left. white and gold regal outfit, small crown. Cute kawaii clean vector thick dark purple #2B1B4A outlines soft gradients pastel neon palette. Portrait 3:4 composition centered waist touching bottom edge, whole head and waving hand inside frame. Genuine transparent background. No text no branding."
+  },
+  {
+    "name": "streamer_cyber",
+    "prompt": "Original character Nova for mobile game. SAME design specification: chibi girl huge head short lavender bob hair with pink streak, purple eyes, over ear purple headphones with small microphone, smiling facing camera waist up one hand waving on viewer left. futuristic neon jacket, visor on forehead. Cute kawaii clean vector thick dark purple #2B1B4A outlines soft gradients pastel neon palette. Portrait 3:4 composition centered waist touching bottom edge, whole head and waving hand inside frame. Genuine transparent background. No text no branding."
+  },
+  {
+    "name": "streamer_idol",
+    "prompt": "Original character Nova for mobile game. SAME design specification: chibi girl huge head short lavender bob hair with pink streak, purple eyes, over ear purple headphones with small microphone, smiling facing camera waist up one hand waving on viewer left. pink stage dress, star accessories. Cute kawaii clean vector thick dark purple #2B1B4A outlines soft gradients pastel neon palette. Portrait 3:4 composition centered waist touching bottom edge, whole head and waving hand inside frame. Genuine transparent background. No text no branding."
+  },
+  {
+    "name": "streamer_gamer",
+    "prompt": "Original character Nova for mobile game. SAME design specification: chibi girl huge head short lavender bob hair with pink streak, purple eyes, over ear purple headphones with small microphone, smiling facing camera waist up one hand waving on viewer left. black and cyan esports jersey, cyan glowing headphones. Cute kawaii clean vector thick dark purple #2B1B4A outlines soft gradients pastel neon palette. Portrait 3:4 composition centered waist touching bottom edge, whole head and waving hand inside frame. Genuine transparent background. No text no branding."
+  },
+  {
+    "name": "streamer_casual",
+    "prompt": "Original character Nova for mobile game. SAME design specification: chibi girl huge head short lavender bob hair with pink streak, purple eyes, over ear purple headphones with small microphone, smiling facing camera waist up one hand waving on viewer left. plain purple hoodie. Cute kawaii clean vector thick dark purple #2B1B4A outlines soft gradients pastel neon palette. Portrait 3:4 composition centered waist touching bottom edge, whole head and waving hand inside frame. Genuine transparent background. No text no branding."
+  },
+  {
+    "name": "gear_webcam",
+    "prompt": "Original mobile game icon: webcam. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "gear_mic",
+    "prompt": "Original mobile game icon: microphone. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "gear_headset",
+    "prompt": "Original mobile game icon: headset. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "gear_keyboard",
+    "prompt": "Original mobile game icon: keyboard. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "gear_lights",
+    "prompt": "Original mobile game icon: ring light. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "gear_chair",
+    "prompt": "Original mobile game icon: gaming chair. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "gear_pc",
+    "prompt": "Original mobile game icon: RGB gaming PC tower. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "gear_greenscreen",
+    "prompt": "Original mobile game icon: green screen on stand. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "decor_plant",
+    "prompt": "Original mobile game icon: potted plant. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "decor_poster",
+    "prompt": "Original mobile game icon: framed abstract poster. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "decor_lamp",
+    "prompt": "Original mobile game icon: lamp. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "decor_shelf",
+    "prompt": "Original mobile game icon: wall shelf. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "decor_neon",
+    "prompt": "Original mobile game icon: heart shaped neon sign. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "decor_trophy",
+    "prompt": "Original mobile game icon: trophy. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "skill_tap",
+    "prompt": "Original mobile game icon: pointing finger. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "skill_engage",
+    "prompt": "Original mobile game icon: speech bubbles. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "skill_crit",
+    "prompt": "Original mobile game icon: lightning star. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "skill_hype",
+    "prompt": "Original mobile game icon: flame. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "skill_offline",
+    "prompt": "Original mobile game icon: moon with zzz. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_coin",
+    "prompt": "Original mobile game icon: gold coin with star. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_gem",
+    "prompt": "Original mobile game icon: cyan diamond. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_heart",
+    "prompt": "Original mobile game icon: pink heart. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_viewer",
+    "prompt": "Original mobile game icon: eye. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_follower",
+    "prompt": "Original mobile game icon: person silhouette with plus. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_gift",
+    "prompt": "Original mobile game icon: pink gift yellow ribbon. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_boost",
+    "prompt": "Original mobile game icon: rocket. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_star",
+    "prompt": "Original mobile game icon: yellow star. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_lock",
+    "prompt": "Original mobile game icon: padlock. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_check",
+    "prompt": "Original mobile game icon: white check in green circle. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "tab_gear",
+    "prompt": "Original mobile game icon: camera. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "tab_skills",
+    "prompt": "Original mobile game icon: lightning bolt. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "tab_room",
+    "prompt": "Original mobile game icon: sofa. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "tab_outfit",
+    "prompt": "Original mobile game icon: t-shirt. Cute kawaii vector art soft gradients thick clean dark purple #2B1B4A outlines, pastel neon purple pink cyan yellow mint palette. One centered readable subject, 8 percent padding each side, transparent background. No branding. Square composition."
+  },
+  {
+    "name": "icon_follower",
+    "purpose": "final silhouette correction",
+    "prompt": "Original mobile game icon of a PERSON SILHOUETTE WITH PLUS. Strictly a simple solid lavender head circle and solid lavender rounded shoulders/bust silhouette with dark purple outline, NO facial features, NO hair, NO clothes, NO detailed character. A clear cyan plus sign in a small yellow circular badge at lower right. Cute clean kawaii vector style soft gradients thick #2B1B4A outlines pastel neon purple cyan yellow. Transparent background, centered single composition, 8% padding, square. No decorative sparkles, no text, no branding."
+  }
+]

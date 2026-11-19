@@ -1,0 +1,519 @@
+[
+  {
+    "character": "Beige_Bomber_Purple_Sweater_Brown_Skirt",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Beige_Bomber_Purple_Sweater_Brown_Skirt\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Beige_Bomber_Purple_Sweater_Brown_Skirt.png",
+    "crop_box": [
+      107,
+      -11,
+      687,
+      569
+    ]
+  },
+  {
+    "character": "Black_Camisole_Teal_Sport_Shorts",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Black_Camisole_Teal_Sport_Shorts\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Black_Camisole_Teal_Sport_Shorts.png",
+    "crop_box": [
+      126,
+      -11,
+      702,
+      565
+    ]
+  },
+  {
+    "character": "Black_Gold_Victorian_Gown",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Black_Gold_Victorian_Gown\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Black_Gold_Victorian_Gown.png",
+    "crop_box": [
+      128,
+      -10,
+      707,
+      569
+    ]
+  },
+  {
+    "character": "Black_Slip_Blue_Robe",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Black_Slip_Blue_Robe\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Black_Slip_Blue_Robe.png",
+    "crop_box": [
+      127,
+      -9,
+      705,
+      569
+    ]
+  },
+  {
+    "character": "Blue_Crystal_Floral_Gown",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Blue_Crystal_Floral_Gown\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Blue_Crystal_Floral_Gown.png",
+    "crop_box": [
+      145,
+      -14,
+      727,
+      568
+    ]
+  },
+  {
+    "character": "Blue_Gold_Halter_Gown",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Blue_Gold_Halter_Gown\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Blue_Gold_Halter_Gown.png",
+    "crop_box": [
+      127,
+      -13,
+      709,
+      569
+    ]
+  },
+  {
+    "character": "Blue_Pink_Floral_Dress_Straw_Hat",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Blue_Pink_Floral_Dress_Straw_Hat\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Blue_Pink_Floral_Dress_Straw_Hat.png",
+    "crop_box": [
+      118,
+      -7,
+      696,
+      571
+    ]
+  },
+  {
+    "character": "Blue_Short_Qipao",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Blue_Short_Qipao\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Blue_Short_Qipao.png",
+    "crop_box": [
+      129,
+      -14,
+      710,
+      567
+    ]
+  },
+  {
+    "character": "Burgundy_Black_Gothic_Dress",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Burgundy_Black_Gothic_Dress\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Burgundy_Black_Gothic_Dress.png",
+    "crop_box": [
+      128,
+      -10,
+      710,
+      572
+    ]
+  },
+  {
+    "character": "Burgundy_Business_Suit",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Burgundy_Business_Suit\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Burgundy_Business_Suit.png",
+    "crop_box": [
+      112,
+      -14,
+      694,
+      568
+    ]
+  },
+  {
+    "character": "Burgundy_Christmas_Sweater_Dress",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Burgundy_Christmas_Sweater_Dress\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Burgundy_Christmas_Sweater_Dress.png",
+    "crop_box": [
+      124,
+      -12,
+      705,
+      569
+    ]
+  },
+  {
+    "character": "Burgundy_SciFi_Armor_Suit",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Burgundy_SciFi_Armor_Suit\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Burgundy_SciFi_Armor_Suit.png",
+    "crop_box": [
+      132,
+      -10,
+      710,
+      568
+    ]
+  },
+  {
+    "character": "Charcoal_Pinstripe_Suit",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Charcoal_Pinstripe_Suit\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Charcoal_Pinstripe_Suit.png",
+    "crop_box": [
+      124,
+      -14,
+      707,
+      569
+    ]
+  },
+  {
+    "character": "Cream_Cardigan_Blue_Plaid_Skirt",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Cream_Cardigan_Blue_Plaid_Skirt\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Cream_Cardigan_Blue_Plaid_Skirt.png",
+    "crop_box": [
+      130,
+      -3,
+      699,
+      566
+    ]
+  },
+  {
+    "character": "Cream_Cardigan_Pink_Slip",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Cream_Cardigan_Pink_Slip\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Cream_Cardigan_Pink_Slip.png",
+    "crop_box": [
+      124,
+      -15,
+      706,
+      567
+    ]
+  },
+  {
+    "character": "Cream_Sweater_Denim_Shorts",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Cream_Sweater_Denim_Shorts\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Cream_Sweater_Denim_Shorts.png",
+    "crop_box": [
+      118,
+      -15,
+      698,
+      565
+    ]
+  },
+  {
+    "character": "Cream_Sweater_Floral_Skirt",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Cream_Sweater_Floral_Skirt\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Cream_Sweater_Floral_Skirt.png",
+    "crop_box": [
+      104,
+      -20,
+      683,
+      559
+    ]
+  },
+  {
+    "character": "Denim_Overalls_Straw_Hat",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Denim_Overalls_Straw_Hat\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Denim_Overalls_Straw_Hat.png",
+    "crop_box": [
+      106,
+      -10,
+      711,
+      595
+    ]
+  },
+  {
+    "character": "Gray_Turtleneck_Sweater_Dress",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Gray_Turtleneck_Sweater_Dress\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Gray_Turtleneck_Sweater_Dress.png",
+    "crop_box": [
+      130,
+      -14,
+      706,
+      562
+    ]
+  },
+  {
+    "character": "Ivory_Blouse_Green_Folk_Skirt",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Ivory_Blouse_Green_Folk_Skirt\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Ivory_Blouse_Green_Folk_Skirt.png",
+    "crop_box": [
+      132,
+      -5,
+      708,
+      571
+    ]
+  },
+  {
+    "character": "Navy_Cream_Ruffled_Swimwear",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Navy_Cream_Ruffled_Swimwear\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Navy_Cream_Ruffled_Swimwear.png",
+    "crop_box": [
+      130,
+      -8,
+      707,
+      569
+    ]
+  },
+  {
+    "character": "Navy_White_Maid_Dress",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Navy_White_Maid_Dress\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Navy_White_Maid_Dress.png",
+    "crop_box": [
+      146,
+      -15,
+      729,
+      568
+    ]
+  },
+  {
+    "character": "Pale_Blue_Sundress_Bunny_Straw_Hat",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Pale_Blue_Sundress_Bunny_Straw_Hat\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Pale_Blue_Sundress_Bunny_Straw_Hat.png",
+    "crop_box": [
+      124,
+      -20,
+      727,
+      583
+    ]
+  },
+  {
+    "character": "Pink_Satin_Cat_Pajamas",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Pink_Satin_Cat_Pajamas\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Pink_Satin_Cat_Pajamas.png",
+    "crop_box": [
+      122,
+      -19,
+      700,
+      559
+    ]
+  },
+  {
+    "character": "Plaid_Shirt_Cafe_Apron",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Plaid_Shirt_Cafe_Apron\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Plaid_Shirt_Cafe_Apron.png",
+    "crop_box": [
+      96,
+      -18,
+      677,
+      563
+    ]
+  },
+  {
+    "character": "Purple_Cream_Swimsuit",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Purple_Cream_Swimsuit\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Purple_Cream_Swimsuit.png",
+    "crop_box": [
+      130,
+      -7,
+      707,
+      570
+    ]
+  },
+  {
+    "character": "Purple_OffShoulder_Black_Leather_Skirt",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Purple_OffShoulder_Black_Leather_Skirt\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Purple_OffShoulder_Black_Leather_Skirt.png",
+    "crop_box": [
+      130,
+      -16,
+      711,
+      565
+    ]
+  },
+  {
+    "character": "Purple_Patterned_Kimono",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Purple_Patterned_Kimono\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Purple_Patterned_Kimono.png",
+    "crop_box": [
+      128,
+      -12,
+      708,
+      568
+    ]
+  },
+  {
+    "character": "Purple_White_Maid_Dress",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Purple_White_Maid_Dress\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Purple_White_Maid_Dress.png",
+    "crop_box": [
+      126,
+      -13,
+      707,
+      568
+    ]
+  },
+  {
+    "character": "Red_Koi_Yukata",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Red_Koi_Yukata\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Red_Koi_Yukata.png",
+    "crop_box": [
+      148,
+      -14,
+      728,
+      566
+    ]
+  },
+  {
+    "character": "Royal_Officer_Uniform",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Royal_Officer_Uniform\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Royal_Officer_Uniform.png",
+    "crop_box": [
+      132,
+      -13,
+      713,
+      568
+    ]
+  },
+  {
+    "character": "Silver_Knight_Armor",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Silver_Knight_Armor\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Silver_Knight_Armor.png",
+    "crop_box": [
+      129,
+      -10,
+      709,
+      570
+    ]
+  },
+  {
+    "character": "Striped_TShirt_Denim_Short_Overalls",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\Striped_TShirt_Denim_Short_Overalls\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Striped_TShirt_Denim_Short_Overalls.png",
+    "crop_box": [
+      135,
+      -8,
+      714,
+      571
+    ]
+  },
+  {
+    "character": "White_Blouse_Leather_Vest_Black_Pants",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Blouse_Leather_Vest_Black_Pants\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Blouse_Leather_Vest_Black_Pants.png",
+    "crop_box": [
+      114,
+      -11,
+      692,
+      567
+    ]
+  },
+  {
+    "character": "White_Blouse_Office_Skirt",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Blouse_Office_Skirt\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Blouse_Office_Skirt.png",
+    "crop_box": [
+      120,
+      -9,
+      698,
+      569
+    ]
+  },
+  {
+    "character": "White_Blue_Floral_Sundress",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Blue_Floral_Sundress\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Blue_Floral_Sundress.png",
+    "crop_box": [
+      131,
+      -12,
+      712,
+      569
+    ]
+  },
+  {
+    "character": "White_Blue_Long_Qipao",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Blue_Long_Qipao\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Blue_Long_Qipao.png",
+    "crop_box": [
+      134,
+      -12,
+      714,
+      568
+    ]
+  },
+  {
+    "character": "White_Blue_Princess_Mage_Dress",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Blue_Princess_Mage_Dress\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Blue_Princess_Mage_Dress.png",
+    "crop_box": [
+      124,
+      -12,
+      702,
+      566
+    ]
+  },
+  {
+    "character": "White_Gold_Halter_Gown",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Gold_Halter_Gown\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Gold_Halter_Gown.png",
+    "crop_box": [
+      144,
+      -12,
+      723,
+      567
+    ]
+  },
+  {
+    "character": "White_Gold_Romper",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Gold_Romper\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Gold_Romper.png",
+    "crop_box": [
+      96,
+      -13,
+      673,
+      564
+    ]
+  },
+  {
+    "character": "White_Halter_Blue_WideLeg_Pants",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Halter_Blue_WideLeg_Pants\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Halter_Blue_WideLeg_Pants.png",
+    "crop_box": [
+      130,
+      -11,
+      709,
+      568
+    ]
+  },
+  {
+    "character": "White_Lace_Cat_Gown",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Lace_Cat_Gown\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Lace_Cat_Gown.png",
+    "crop_box": [
+      192,
+      -20,
+      776,
+      564
+    ]
+  },
+  {
+    "character": "White_Tank_Blue_Flared_Skirt",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Tank_Blue_Flared_Skirt\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Tank_Blue_Flared_Skirt.png",
+    "crop_box": [
+      138,
+      -13,
+      718,
+      567
+    ]
+  },
+  {
+    "character": "White_Tank_Blue_Sport_Shorts",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Tank_Blue_Sport_Shorts\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Tank_Blue_Sport_Shorts.png",
+    "crop_box": [
+      120,
+      -11,
+      698,
+      567
+    ]
+  },
+  {
+    "character": "White_Yellow_Sailor_Dress",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot\\White_Yellow_Sailor_Dress\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\White_Yellow_Sailor_Dress.png",
+    "crop_box": [
+      113,
+      -15,
+      692,
+      564
+    ]
+  },
+  {
+    "character": "Black_Lace_Cat_Outfit",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot_Clean\\Black_Lace_Cat_Outfit\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Black_Lace_Cat_Outfit.png",
+    "crop_box": [
+      86,
+      -16,
+      746,
+      644
+    ]
+  },
+  {
+    "character": "Burgundy_Lace_Sleepwear",
+    "source": "D:\\WaifuCard\\Animation\\Characters_Screenshot_Clean\\Burgundy_Lace_Sleepwear\\Idle_0.png",
+    "avatar": "D:\\WaifuCard\\Animation\\Avatar\\Burgundy_Lace_Sleepwear.png",
+    "crop_box": [
+      126,
+      -12,
+      706,
+      568
+    ]
+  }
+]

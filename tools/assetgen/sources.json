@@ -1,0 +1,275 @@
+{
+  "bg_room": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-181151bc-b904-490c-a158-9db3c22d4b35.png",
+    "size": [
+      1080,
+      1920
+    ]
+  },
+  "streamer_royal": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-2d4b8346-2178-4869-9d6a-a59f7723cecf.png",
+    "size": [
+      768,
+      1024
+    ]
+  },
+  "streamer_cyber": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-6d71b9dd-85f1-438f-9cf3-da5b65a332a9.png",
+    "size": [
+      768,
+      1024
+    ]
+  },
+  "streamer_idol": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-33bce4b1-a1a3-433e-a1c5-c888a0c70d07.png",
+    "size": [
+      768,
+      1024
+    ]
+  },
+  "streamer_gamer": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-8f1f99b6-cf91-4c21-9b30-ccedb43c7a88.png",
+    "size": [
+      768,
+      1024
+    ]
+  },
+  "streamer_casual": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-0b9284a7-426a-401e-9727-913f1ed72a6c.png",
+    "size": [
+      768,
+      1024
+    ]
+  },
+  "gear_webcam": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-e7ca56d7-6280-42b8-ae23-d0e95967d665.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "gear_mic": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-f35b6177-2286-4bc3-b6b6-43e77db0224b.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "gear_headset": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-6d3b8b3c-c9ca-40ff-91d6-795860651f36.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "gear_keyboard": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-2a440070-3905-4fa9-8248-89630ed394c3.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "gear_lights": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-71881bea-3432-4d2d-a4ab-7a6fc9189b2f.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "gear_chair": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-25c55600-d539-40d5-9805-ed3be46049cc.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "gear_pc": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-0bafbffb-d17b-43b0-9273-a4bb9f502d3a.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "gear_greenscreen": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-066b90cf-58f1-47c1-96a1-dcdd42ed5319.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "decor_plant": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-33190d66-46e9-4ef2-b3cf-380e22b385ac.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "decor_poster": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-d95a11a2-8940-4dd1-99ff-5fb86c579c1a.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "decor_lamp": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-7b44b9da-7c91-4cca-baa3-fd7a71f003af.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "decor_shelf": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-9c2eff1c-dc4a-411f-b901-96af830aa185.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "decor_neon": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-2b5cc1eb-b563-4320-a3ca-f6598b3508c4.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "decor_trophy": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-35bb8048-3dc0-4234-95a5-aac0adcce4cc.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "skill_tap": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-28506735-d75e-4291-9915-371490ab969d.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "skill_engage": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-e4a51bf5-a4e4-4f10-ab09-727e1b2d2f64.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "skill_crit": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-fcdb2f9f-a6ee-4d5c-a010-8ac544de0cf8.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "skill_hype": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-c36b31ee-52f7-4b68-90b5-889444939d7b.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "skill_offline": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-2614fe08-7703-45d9-8b4a-96e2b811f100.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  "icon_coin": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-ce9b3636-9f5e-4e5e-aa2e-ad983febf121.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "icon_gem": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-4c9741d5-f5a3-45e8-9bc7-22ee510fb56d.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "icon_heart": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-e8dec42e-cf6e-4300-ab60-4d071adf9e28.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "icon_viewer": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-969ef5cb-47c6-42bc-9c34-1220b02b429e.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "icon_follower": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-1a5fb815-1c4b-4cb7-b491-bda620552a8d.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "icon_gift": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-32745419-4cb4-4ca2-b5c5-e77c1f17f57c.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "icon_boost": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-aebdaa71-1175-4542-8c04-61810bf6735b.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "icon_star": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-51058d9e-ff43-4940-9d10-4fb9a917ea44.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "icon_lock": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-7108ec1f-bedc-484b-950e-46ff5ec1845c.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "icon_check": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-0dc7aa6b-f03d-4a0d-aa61-86f4c47be22b.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "tab_gear": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-18f3f8df-6b47-4e27-a04a-183443d8b0b0.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "tab_skills": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-bfe765b9-3828-4ab8-8619-f887384831db.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "tab_room": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-6954bb80-4b67-4075-adc9-338ea5c88eed.png",
+    "size": [
+      128,
+      128
+    ]
+  },
+  "tab_outfit": {
+    "path": "C:\\Users\\ADMIN\\.codex\\generated_images\\01a1e04a-1efd-7203-af0c-ff3be4530029\\exec-720342c0-5058-4df7-ba70-1dad76327dbc.png",
+    "size": [
+      128,
+      128
+    ]
+  }
+}
